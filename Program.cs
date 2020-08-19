@@ -14,6 +14,15 @@ namespace Garnisher
             personOne.Show();
 
             Console.WriteLine();
+            SuitPersonOne suitPersonOne = new SuitPersonOne() { Name = "小黑" };
+            suitPersonOne.Show();
+            Console.WriteLine();
+
+            TShirtPersonOne shirtPersonOne = new TShirtPersonOne() { Name = "小黑" };
+            shirtPersonOne.Show();
+            Console.WriteLine();
+
+            Console.WriteLine();
             Console.WriteLine("==============================");
 
             // 首先要有打扮的人

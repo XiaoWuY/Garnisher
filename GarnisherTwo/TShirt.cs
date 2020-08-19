@@ -11,6 +11,7 @@ namespace Garnisher.GarnisherTwo
         {
             base.Show();
             Console.Write("大t恤  ");
+            // Console.Write("网鞋  ");
         }
     }
 }

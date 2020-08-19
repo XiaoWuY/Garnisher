@@ -11,8 +11,8 @@ namespace Garnisher.GarnisherOne
         public  void Show()
         {
             Console.Write($"打扮的人是{this.Name}："); 
-            Console.Write("大t恤  ");
-            Console.Write("网鞋  ");
+            //Console.Write("大t恤  ");
+            //Console.Write("网鞋  ");
         }
     }
 }
